@@ -16,8 +16,9 @@ VANTA.WAVES({
 
 
     // ✅ Firebase config from your project
+// you have to add firebase api in api key
     const firebaseConfig = {
-      apiKey: "AIzaSyDzZr5j_j_V8DMC5MaPmkzKN3JtHUXikRc",
+      apiKey: "",
       authDomain: "login-page-33e65.firebaseapp.com",
       projectId: "login-page-33e65",
       storageBucket: "login-page-33e65.appspot.com",
